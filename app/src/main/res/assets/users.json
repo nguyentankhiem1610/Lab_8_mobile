@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "User 1",
+      "email": "user1@example.com",
+      "desc": "Sinh viên ngành Công nghệ thông tin. Đang học lập trình Android bằng Java.",
+      "avatar_url": "https://i.pravatar.cc/300?img=12",
+      "hobby": "Lập trình, nghe nhạc, đọc sách"
+    },
+    {
+      "id": 2,
+      "username": "User 2",
+      "email": "user2@example.com",
+      "desc": "Yêu thích thiết kế giao diện và phát triển ứng dụng di động.",
+      "avatar_url": "https://i.pravatar.cc/300?img=47",
+      "hobby": "Chụp ảnh, du lịch, thể thao"
+    }
+  ]
+}
