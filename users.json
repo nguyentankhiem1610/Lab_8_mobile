@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nguyễn Minh An",
+      "email": "minhan@example.com",
+      "desc": "Sinh viên Công nghệ thông tin, yêu thích lập trình Android.",
+      "avatar_url": "https://randomuser.me/api/portraits/men/32.jpg",
+      "hobby": "Lập trình, đọc sách, chơi cầu lông"
+    },
+    {
+      "id": 2,
+      "username": "Trần Ngọc Mai",
+      "email": "ngocmai@example.com",
+      "desc": "Yêu thích thiết kế giao diện và tìm hiểu trải nghiệm người dùng.",
+      "avatar_url": "https://randomuser.me/api/portraits/women/44.jpg",
+      "hobby": "Vẽ tranh, chụp ảnh, nghe nhạc"
+    },
+    {
+      "id": 3,
+      "username": "Lê Hoàng Nam",
+      "email": "hoangnam@example.com",
+      "desc": "Đang học phát triển website với JavaScript và React.",
+      "avatar_url": "https://randomuser.me/api/portraits/men/46.jpg",
+      "hobby": "Đá bóng, chơi game, du lịch"
+    },
+    {
+      "id": 4,
+      "username": "Phạm Thu Hà",
+      "email": "thuha@example.com",
+      "desc": "Quan tâm đến phân tích dữ liệu và trực quan hóa bằng Power BI.",
+      "avatar_url": "https://randomuser.me/api/portraits/women/65.jpg",
+      "hobby": "Đọc sách, nấu ăn, chạy bộ"
+    },
+    {
+      "id": 5,
+      "username": "Võ Đức Huy",
+      "email": "duchuy@example.com",
+      "desc": "Yêu thích trí tuệ nhân tạo và đang học lập trình Python.",
+      "avatar_url": "https://randomuser.me/api/portraits/men/75.jpg",
+      "hobby": "Lập trình, chơi cờ, xem phim"
+    },
+    {
+      "id": 6,
+      "username": "Đặng Khánh Linh",
+      "email": "khanhlinh@example.com",
+      "desc": "Đang tìm hiểu kiểm thử phần mềm và xây dựng ứng dụng di động.",
+      "avatar_url": "https://randomuser.me/api/portraits/women/68.jpg",
+      "hobby": "Nghe nhạc, đi bộ, học ngoại ngữ"
+    },
+    {
+      "id": 7,
+      "username": "Bùi Quốc Bảo",
+      "email": "quocbao@example.com",
+      "desc": "Quan tâm đến mạng máy tính và bảo mật hệ thống.",
+      "avatar_url": "https://randomuser.me/api/portraits/men/52.jpg",
+      "hobby": "Đạp xe, lắp ráp máy tính, bơi lội"
+    },
+    {
+      "id": 8,
+      "username": "Đỗ Thanh Trúc",
+      "email": "thanhtruc@example.com",
+      "desc": "Mong muốn phát triển các ứng dụng hỗ trợ học tập và đời sống.",
+      "avatar_url": "https://randomuser.me/api/portraits/women/49.jpg",
+      "hobby": "Trồng cây, làm bánh, chụp ảnh"
+    }
+  ]
+}
